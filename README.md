@@ -181,12 +181,12 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/Archana2003-Jkumar/named-entity-recognition/assets/93427594/cf4b3c22-95e1-4427-b8b0-aea840f597ef)
-![image](https://github.com/Archana2003-Jkumar/named-entity-recognition/assets/93427594/009690b8-e9e0-434f-b36e-605863513b05)
+![image](https://github.com/Archana2003-Jkumar/named-entity-recognition/assets/93427594/1c0b9e62-0371-49e1-bccc-30d00e19c671)
+![image](https://github.com/Archana2003-Jkumar/named-entity-recognition/assets/93427594/a50b42b6-b46d-476a-9cb4-8672ade7fb1e)
 
 
 ### Sample Text Prediction
-![image](https://github.com/Archana2003-Jkumar/named-entity-recognition/assets/93427594/1f33eb87-14f9-4e9a-b6e7-39523b05c780)
+![image](https://github.com/Archana2003-Jkumar/named-entity-recognition/assets/93427594/b5fde427-ca60-4efd-9edd-0c11ba83f6bb)
 
 ## RESULT
 Thus, an LSTM-based model for recognizing the named entities in the text is successfully developed.
